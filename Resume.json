@@ -1,0 +1,47 @@
+{
+	"basics": {
+		"name": "Madhur Gupta",
+		"label": "Student",
+		"email": "madhurg2002@gmail.com",
+		"phone": "+919034453365",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communications Engineering. Currently persuing web devlopment",
+		"location": {
+			"address": "19-A Shakti Colony Mall Road opp. D.A.V(PG) college",
+			"postalCode": "132001",
+			"city": "Haryana",
+			"countryCode": "India",
+			"region": "Karnal"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Madhurg2002",
+				"url": "https://github.com/Madhurg2002/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Madhur Gupta",
+				"url": "https://www.linkedin.com/in/madhur-gupta-58b5601a1/"
+			},		
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2020-12-01 //Date",
+		"gpa": "7.95",
+		"courses": [
+			"Electronics and Communications Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Learner",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton","Basketball"]
+	}],
+	"references": []
+}
