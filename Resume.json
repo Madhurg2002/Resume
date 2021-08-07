@@ -1,19 +1,19 @@
-{
-	"basics": {
+"basics": {
 		"name": "Madhur Gupta",
 		"label": "Student",
+		"picture": "",
 		"email": "madhurg2002@gmail.com",
 		"phone": "+919034453365",
-		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communications Engineering. Currently persuing web devlopment",
+		"website": "",
+		"summary": "I'm a student of IIIT Kota Currently piusrsuing Web development",
 		"location": {
-			"address": "19-A Shakti Colony Mall Road opp. D.A.V(PG) college",
+			"address": "",
 			"postalCode": "132001",
-			"city": "Haryana",
+			"city": "karnal",
 			"countryCode": "India",
-			"region": "Karnal"
+			"region": "Haryana"
 		},
-		"profiles": [
-			{
+		"profiles": {{
 				"network": "Github",
 				"username": "Madhurg2002",
 				"url": "https://github.com/Madhurg2002/"
@@ -22,22 +22,23 @@
 				"network": "linkedin",
 				"username": "Madhur Gupta",
 				"url": "https://www.linkedin.com/in/madhur-gupta-58b5601a1/"
-			},		
+			}	
 		]
 	},
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
-		"studyType": "Bachelor",
-		"startDate": "2020-12-01 //Date",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-01-10",
+		"endDate": "2024-06-06",
 		"gpa": "7.95",
 		"courses": [
 			"Electronics and Communications Engineering"
 		]
 	}],
 	"skills": [{
-		"level": "Learner",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
 	}],
 	"interests": [{
 		"name": "Sports",
