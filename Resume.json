@@ -1,4 +1,4 @@
-"basics": {
+{"basics": {
 		"name": "Madhur Gupta",
 		"label": "Student",
 		"picture": "",
@@ -13,7 +13,9 @@
 			"countryCode": "India",
 			"region": "Haryana"
 		},
-		"profiles": {{
+		"profiles": 
+		{
+			{
 				"network": "Github",
 				"username": "Madhurg2002",
 				"url": "https://github.com/Madhurg2002/"
