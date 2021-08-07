@@ -6,7 +6,7 @@
 		"email": "madhurg2002@gmail.com",
 		"phone": "+919034453365",
 		"website": "",
-		"summary": "I'm a student of IIIT Kota currently pursuing web development",
+		"summary": "I'm a student of INDAIN INSTITUTE OF INFORMATION TECHNOLOGY KOTA,RAJASTHAN. I'm currently pursuing web development",
 		"location": {
 			"address": "",
 			"postalCode": "132001",
@@ -30,7 +30,7 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-01-10 //Date",
+		"startDate": "2018-01-12",
 		"endDate": "2024-06-06",
 		"gpa": "7.95",
 		"courses": [
@@ -43,7 +43,9 @@
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton","Basketball"]
+		"keywords": ["Chess", "Badminton","Basketball"]},{
+		"name": "Learning",
+		"keywords": ["", ""]}
 	}],
-	"references": []
+	"references": []	
 }
